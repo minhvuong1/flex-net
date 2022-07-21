@@ -17,9 +17,6 @@ Have semantically clean HTML and CSS
 
 Be deployed online and accessible to the public
 
-## Planning
-<img src="https://github.com/minhvuong1/flexnet/blob/master/whiteboard_sketch_plan.jpg" width="310">
-
 ## Development
 1. HTML
 2. CSS
